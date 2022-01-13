@@ -1,2 +1,2 @@
 # gitpractice
-this is for practicing all the gitHub command, i first step towards learning GitHub
+this is for practicing all the gitHub command, a step towards learning GitHub
